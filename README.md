@@ -88,10 +88,10 @@ server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 
-## OUTPUT:
-![alt text](<WhatsApp Image 2025-03-30 at 14.19.15_c26b9666.jpg>)
-![alt text](<WhatsApp Image 2025-03-30 at 14.18.50_c9a7220c.jpg>)
 
+## OUTPUT:
+![alt text](<WhatsApp Image 2025-03-30 at 14.18.50_c9a7220c.jpg>)
+![alt text](<WhatsApp Image 2025-03-30 at 14.19.15_c26b9666.jpg>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
