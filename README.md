@@ -43,7 +43,7 @@ content="""
 <!DOCTYPE html>
 <html>
 <head>
-    <title align="center">TCP/IP Layers and Protocols</title>
+    <title >TCP/IP Layers and Protocols</title>
     
         
 </head>
